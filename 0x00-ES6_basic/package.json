@@ -16,5 +16,8 @@
 		"eslint-plugin-import": "^2.18.2",
 		"eslint-plugin-jest": "^26.6.0",
 		"jest": "^29.7.0"
+	},
+	"dependencies": {
+		"import-local": "^3.1.0"
 	}
 }
