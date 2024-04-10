@@ -1,5 +1,0 @@
-
-> dev
-> npx babel-node 2-main.js
-
-Got a response from the API
